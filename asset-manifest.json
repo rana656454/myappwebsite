@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/myappwebsite/static/css/main.a010ef19.chunk.css",
+    "main.js": "/myappwebsite/static/js/main.92bf8c8c.chunk.js",
+    "main.js.map": "/myappwebsite/static/js/main.92bf8c8c.chunk.js.map",
+    "runtime-main.js": "/myappwebsite/static/js/runtime-main.1121810e.js",
+    "runtime-main.js.map": "/myappwebsite/static/js/runtime-main.1121810e.js.map",
+    "static/css/2.07725c36.chunk.css": "/myappwebsite/static/css/2.07725c36.chunk.css",
+    "static/js/2.0f42ac00.chunk.js": "/myappwebsite/static/js/2.0f42ac00.chunk.js",
+    "static/js/2.0f42ac00.chunk.js.map": "/myappwebsite/static/js/2.0f42ac00.chunk.js.map",
+    "index.html": "/myappwebsite/index.html",
+    "static/css/2.07725c36.chunk.css.map": "/myappwebsite/static/css/2.07725c36.chunk.css.map",
+    "static/css/main.a010ef19.chunk.css.map": "/myappwebsite/static/css/main.a010ef19.chunk.css.map",
+    "static/js/2.0f42ac00.chunk.js.LICENSE.txt": "/myappwebsite/static/js/2.0f42ac00.chunk.js.LICENSE.txt",
+    "static/media/app.d491b82e.jpg": "/myappwebsite/static/media/app.d491b82e.jpg",
+    "static/media/image1.e6c51cf5.jpg": "/myappwebsite/static/media/image1.e6c51cf5.jpg",
+    "static/media/market.b59bfb85.jpg": "/myappwebsite/static/media/market.b59bfb85.jpg",
+    "static/media/soft.50a7c37c.jpg": "/myappwebsite/static/media/soft.50a7c37c.jpg",
+    "static/media/web.b503c7a7.jpg": "/myappwebsite/static/media/web.b503c7a7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1121810e.js",
+    "static/css/2.07725c36.chunk.css",
+    "static/js/2.0f42ac00.chunk.js",
+    "static/css/main.a010ef19.chunk.css",
+    "static/js/main.92bf8c8c.chunk.js"
+  ]
+}
